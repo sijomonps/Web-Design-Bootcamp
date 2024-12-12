@@ -51,7 +51,7 @@
     margin-right: 20px;
 }
 .main-button{
-    background-image: linear-gradient(315deg, #f9c5d1 0%, #9795ef 74%);
+    background-image: -webkit-linear-gradient(315deg, #f9c5d1 0%, #9795ef 74%);
     border-radius: 20px;
     height: 50px;
     width: 150px;
